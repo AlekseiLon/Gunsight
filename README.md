@@ -1,6 +1,7 @@
 # Gunsight
 Если в игре нет прицела это приложение его добавит | If there is no sight in the game, this application will add it
 
+Если вам нужно только приложение достаточно скачать папку Gunsight_Exe  
 Все клавиши кроме Scroll Lock работают только если прицел выбран активным окном  
 
 - Scroll Lock - Спрятать/Показать прицел  
@@ -13,6 +14,7 @@
 - ← ↑ → ↓ - Перемещение прицела    
 Если есть желание отблагодарить - https://www.donationalerts.com/r/fyhtuk_
   
+If you only need the application, it is enough to download the Gunsight_Exe folder  
 All keys except Scroll Lock work only if the gunsight is selected by the active window
 
 - Scroll Lock - Hide/Show gunsight
